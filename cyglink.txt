@@ -1,0 +1,2 @@
+"C:\Users\fjb29\OneDrive\Documentos\GitHub\F300\ControlLuzRGB\config.obj",
+"C:\Users\fjb29\OneDrive\Documentos\GitHub\F300\ControlLuzRGB\prim2.obj"  TO "C:\Users\fjb29\OneDrive\Documentos\GitHub\F300\ControlLuzRGB\config" RS(256) PL(68) PW(78) 
